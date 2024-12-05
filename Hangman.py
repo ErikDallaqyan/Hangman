@@ -9,6 +9,17 @@ class Hangman:
                "Food": ["pizza", "sushi", "tacos", "pasta", "salad", "burger", "chocolate", "curry", "bread", "cheese", "chicken", "fish", "apple", "rice", "vegetable", "pancake"],
                 "Countries": ["armenia", "canada", "brazil", "uganda", "france", "germany", "italy", "japan", "china", "india", "australia", "russia", "nigeria", "mexico", "spain", "argentina", "netherlands", "sweden", "switzerland"]}
     difficulty = {"Easy": 15, "Medium": 12, "Hard": 9, "Extreme": 5}
+
+
+
+
+
+
+
+
+
+
+    
     
     def __init__(self, letters):
         self.letters = list(letters)
